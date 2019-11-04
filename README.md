@@ -1,4 +1,4 @@
-## Creator Introduction: Kyle Blaylock
+## Creator Introduction
 
 <div align="center">
   
@@ -9,8 +9,6 @@ Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa Sta
 <p align="center">
   <img height="500" src="IMG_0303.jpg">
 </p>
-
-
 
 ## In-Depth Project Description
   
