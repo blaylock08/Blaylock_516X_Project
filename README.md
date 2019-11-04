@@ -18,6 +18,6 @@ Awesome project description!
 
 <p align="center">
 
-<img  src="Animal_Kingdom_Classification.png">
+<img width="800" src="Animal%20Kingdom%20Classification.png">
 
 </p>
