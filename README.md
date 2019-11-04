@@ -10,11 +10,11 @@ Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa Sta
 
 </div>
 
-### In-Depth Project Description
+## In-Depth Project Description
   
 Awesome project description!
 
-### Course Project Workflow
+## Course Project Workflow
 
 <p align="center">
 
