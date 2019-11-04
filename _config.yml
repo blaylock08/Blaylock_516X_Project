@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
-title: Kyle Blaylock ABE 516X Course Project
-description: Fall 2019 Course Project
+title: Animal Kingdom Classification - ABE 516X Course Project
+description: The goal of this project is to create a machine learning model to classify animals to their kingdom based on an image.
