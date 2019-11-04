@@ -1,7 +1,7 @@
 ## Creator Introduction: Kyle Blaylock
 
 <p align="center">
-  <img width="360" height="500" src="https://github.com/blaylock08/Blaylock_516X_Project/blob/master/IMG_0303.jpg">
+  <img width="350" height="500" src="https://github.com/blaylock08/Blaylock_516X_Project/blob/master/IMG_0303.jpg">
 </p>
 
 <div align="center">
