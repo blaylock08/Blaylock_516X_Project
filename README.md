@@ -18,6 +18,6 @@ Awesome project description!
 
 <p align="center">
 
-Insert Image of Project Workflow
+<img  src="Animal_Kingdom_Classification.png">
 
 </p>
