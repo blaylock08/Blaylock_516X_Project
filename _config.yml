@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
-title: Animal Group Classification - ABE 516X Course Project
-description: The goal of this project is to create a machine learning model/s to classify animals to their correct group based on an image.
-description: Completed Fall of 2019.
+title: Animal Group Classification - ABE 516X Course Project - Fall 2019
+description: Creating and evaluating a machine learning model to classify animals to their respective group based on an input image.
