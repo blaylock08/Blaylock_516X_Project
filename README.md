@@ -6,8 +6,14 @@ Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa Sta
    
 </div>
 
-<p align="center">
-  <img height="500" src="IMG_0303.jpg">
+
+<img src="IMG_0303.jpg" height="400" /> <img src="IMG_0413.jpg" height="400" />
+
+
+<p align="left">
+  <img height="400" src="IMG_0303.jpg">
+<p align="right">
+  <img height="400" src="IMG_0413.jpg">
 </p>
 
 ## Project Abstract
