@@ -7,10 +7,10 @@ Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa Sta
 </div>
 
 <p align="cemter">
-<img src="IMG_0303.jpg" height="420" />  <img src="IMG_0413.jpg" height="420" />
+   <img src="IMG_0303.jpg" height="420">  <img src="IMG_0413.jpg" height="420">
 </p>
 
-## Project Abstract
+## Project & Website Description
   
 The goal of this website / project is to be able to take an uploaded image from the site user and classify it into one of the following animal groups:
 
