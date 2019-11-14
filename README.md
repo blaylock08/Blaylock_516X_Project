@@ -5,7 +5,6 @@ Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa Sta
 </div>
 
 ##   
-
 <p align="center">
   <img height="500" src="IMG_0303.jpg">
 </p>
