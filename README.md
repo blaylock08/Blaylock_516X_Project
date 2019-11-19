@@ -37,7 +37,7 @@ Data was collected by doing a Google Image search for each of the animal groups 
   
 Describe the methods used.
 
-## Model Verificaiton and Accuracy
+## Model Verification and Accuracy
 
 Describe the accuracy of each model type, benefits, downfalls, etc.
 
