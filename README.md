@@ -31,11 +31,7 @@ The most accurate model will be chosen and used to evaluate the user input image
 
 ## Getting The Data
 
-Decsription of how the data was retrieved and classified.
-
-## Exploring the Data
-
-Might cut this one.
+Data was collected by doing a Google Image search for each of the animal groups and then saving images of each group into a local folder. During collection I did my best to only include images that were of the animals in their natural habitat (e.g. no images with white or black baackgrounds, human hands in the picture etc.) These images were then referenced into an Excel spread sheet which classified which group that image belonged to.
 
 ## Data Modeling and Machine Learning
   
