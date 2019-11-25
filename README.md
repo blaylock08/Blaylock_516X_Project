@@ -50,6 +50,11 @@ Describe the accuracy of each model type, benefits, downfalls, etc.
 Idea is to have a user input an image and then the website will classify it for them.
 This might be a long shot on getting this to work but I'd like to give it a shot.
 
+## What To Do Moving Forward
+
+Different techniques of classification.
+Image editing (background removal, outlining, etc).
+
 ## References & Documentation
 
 Attach any links used or references.
