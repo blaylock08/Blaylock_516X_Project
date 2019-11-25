@@ -52,6 +52,4 @@ This might be a long shot on getting this to work but I'd like to give it a shot
 
 ## References & Documentation
 
-Attach any links used or refe
-
-## NEW ADDITION
+Attach any links used or references.
