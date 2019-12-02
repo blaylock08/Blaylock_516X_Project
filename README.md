@@ -26,7 +26,7 @@ The most accurate model will be chosen and used to evaluate other images.
 ## Project Workflow
 
 <p align="center">
-  <img width="1000" src="Animal%20Kingdom%20Classification.png">
+  <img width="1000" src="Test_Images/Animal%20Kingdom%20Classification.png">
 </p>
 
 ## Data Collection
@@ -47,7 +47,7 @@ With the extracted RGB data from each of the images I trained four seperate mode
 Table: Model Type and Accuracy Score
 </div>
 <p align="center">
-   <img src="Scores.PNG" height="200"> 
+   <img src="Test_Images/Scores.PNG" height="200"> 
 </p>
 
 ### - Random Forest
@@ -69,7 +69,7 @@ This model had similar results to the K-Means model. Again this will be discusse
 ## Model Testing
 
 <p align="center">
-   <img src="Adams.jpg" height="275"> <img src="Blaylock.jpg" height="275"> <img src="Deutsch.jpg" height="275"> <img src="Irlbeck.jpg" height="275"> <img src="Rewerts.jpg" height="275"> 
+   <img src="Test_Images/Adams.jpg" height="275"> <img src="Test_Images/Blaylock.jpg" height="275"> <img src="Test_Images/Deutsch.jpg" height="275"> <img src="Test_Images/Irlbeck.jpg" height="275"> <img src="Test_Images/Rewerts.jpg" height="275"> 
 </p>
       
 <div align="center">  
