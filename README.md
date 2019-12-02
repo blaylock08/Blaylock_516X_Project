@@ -91,10 +91,16 @@ Also picking images of a specific animal or other specific images would help as 
 
 For a class task, I would suggest using the tutorial that I created for the animal images classification using Keras and TensorFlow. It is in the "Code" folder of this repo and is called "Keras_Model_Evaluation_Script.ipynb". I think that this would be a good task that could also be done alongside the Amazon Workspace portion of this course as my computer didn't have enough ponies to even train the model of this type. It would be interesting to see if this method is any more effective than the RGB method that I used. All of the images I used for this project can be found in the "Animal_Images" folder of this repo.
 
-## References & Documentation
+## References
 
-- Google Images Search
-- [https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/]
-- [https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/]
-- [https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/]
-- [https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8]
+- [Google Images Search](https://www.google.com/imghp?hl=en&tab=ri&authuser=0&ogbl)
+- [Image Classification Model](https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/)
+- [Python Machine Learning](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
+- [Image Data Extraction Techiniques](https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/)
+- [Keras Tutorial](https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8)
+
+## Documentation
+
+- [Animal Images](https://github.com/blaylock08/Blaylock_516X_Project/tree/master/Animal_Images)
+- [Model Evaluation Script](https://github.com/blaylock08/Blaylock_516X_Project/blob/master/Code/Model_Evaluation_Script.ipynb)
+- [Keras Tutorial Script](https://github.com/blaylock08/Blaylock_516X_Project/blob/master/Code/Keras_Model_Evaluation_Script.ipynb)
