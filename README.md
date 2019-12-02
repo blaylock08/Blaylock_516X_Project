@@ -68,7 +68,12 @@ This model had similar results to the K-Means model. Again this will be discusse
 
 ## Model Testing
 
-Show 4 images and what they were classified as.
+<p align="center">
+   <img src="Adams.jpg" height="200"> <img src="Blaylock.jpg" height="200"> <img src="Deutsch.jpg" height="200"> <img src="Irlbeck.jpg" height="200"> <img src="Rewerts.jpg" height="200"> 
+</p>
+<div align="center">  
+### Adams = Reptile | Blaylock = Fish | Deutsch = Mammal | Irlbeck = Reptile | Rewerts = Mammal
+</div>
 
 ## What To Do Moving Forward
 
