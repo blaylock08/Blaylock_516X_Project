@@ -1,10 +1,6 @@
 ## Creator Introduction
-
-<div align="center">  
    
 Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa State University. I am currently working on a Master's of Science degree in Agricultural Engineering with an emphasis in Advanced Machinery Systems. More specifically, self-propelled agricultural sprayers and how their performance can be improved. I took ABE 516X because my research is very data heavy and I wanted to learn new and different ways to handle large amounts of data.
-   
-</div>
 
 <p align="center">
    <img src="Test_Images/IMG_0303.jpg" height="410"> <img src="Test_Images/IMG_0413.jpg" height="410">
@@ -84,10 +80,11 @@ As I worked on this project and did some research on the task of image classific
    - Image Outlining
    - Image Background Removal
    - Pixel By Pixel Image Analysis
+I think doing some of these things would help tremendously as after looking at some comparision plots of the RGB Data, there wasn't much grouping that occured with the classes. This can be seen in the image below.
 
-Different techniques of classification.
-Image editing (background removal, outlining, etc).
-Show Pair Plot of overlayed data.
+<p align="center">
+   <img src="Test_Images/Pairplot.PNG" width="1000"> 
+</p>
 
 ## Class Task
 
