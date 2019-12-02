@@ -94,10 +94,13 @@ For a class task, I would suggest using the tutorial that I created for the anim
 ## References
 
 - [Google Images Search](https://www.google.com/imghp?hl=en&tab=ri&authuser=0&ogbl)
+- [Image Loading With Python](https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/)
 - [Image Classification Model](https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/)
 - [Python Machine Learning](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 - [Image Data Extraction Techiniques](https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/)
-- [Keras Tutorial](https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8)
+- [Keras-Python Tutorial](https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8)
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [Markdown Syntax](https://www.markdownguide.org)
 
 ## Documentation
 
