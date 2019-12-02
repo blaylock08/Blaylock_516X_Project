@@ -82,11 +82,13 @@ As I worked on this project and did some research on the task of image classific
    - Image Background Removal
    - Pixel By Pixel Image Analysis
 
-I think doing some of these things would help tremendously as after looking at some comparision plots of the RGB Data, there wasn't much grouping that occured with the classes. This can be seen in the image below.
+I think doing some of these things would help tremendously as after looking at some comparision plots of the RGB data, there wasn't much grouping that occured with the classes. All of the RGB data just piles on top of each other. So my data collection methods seemed to be too simple to be able to accuratle classify animal class. This can be seen in the image below.
 
 <p align="center">
-   <img src="Test_Images/Pairplot.PNG" width="1000"> 
+   <img src="Test_Images/Pairplot.PNG" height="400"> 
 </p>
+
+Also picking images of a specific animal or other specific images would help as well. For exmaple, trying to classify a goldfish vs a cat. I think that there was too much variation in my data, which led to a low accuracy in my models.
 
 ## Class Task
 
@@ -94,4 +96,8 @@ Create a task that could be completed by future students.
 
 ## References & Documentation
 
-Attach any links used or references.
+- https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/
+- https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/
+- https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/
+- https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8
+- Google Images Search
