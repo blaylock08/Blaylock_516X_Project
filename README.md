@@ -87,7 +87,7 @@ I think doing some of these things would help tremendously as after looking at s
 
 Also picking images of a specific animal or other specific images would help as well. For example, trying to classify a goldfish vs a cat. I think that there was too much variation in my data, which led to low accuracy in my models.
 
-## Class Task
+## Future Course Task
 
 For a class task, I would suggest using the tutorial that I created for the animal images classification using Keras and TensorFlow. It is in the "Code" folder of this repo and is called "Keras_Model_Evaluation_Script.ipynb". I think that this would be a good task that could also be done alongside the Amazon Workspace portion of this course as my computer didn't have enough ponies to even train the model of this type. It would be interesting to see if this method is any more effective than the RGB method that I used. All of the images I used for this project can be found in the "Animal_Images" folder of this repo.
 
