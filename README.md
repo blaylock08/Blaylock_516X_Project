@@ -96,8 +96,8 @@ Create a task that could be completed by future students.
 
 ## References & Documentation
 
+- Google Images Search
 - https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/
 - https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/
 - https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/
 - https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8
-- Google Images Search
