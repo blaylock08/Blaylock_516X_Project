@@ -46,6 +46,9 @@ With the extracted RGB data from each of the images I trained four seperate mode
 <p align="center">
    <img src="Scores.PNG" height="200"> 
 </p>
+<div align="center">  
+Table 1: Model Type and Accuracy Score
+</div>
 
 ### - Random Forest Classifier
 
@@ -71,6 +74,7 @@ Show 4 images and what they were classified as.
 
 Different techniques of classification.
 Image editing (background removal, outlining, etc).
+Show Pair Plot of overlayed data.
 
 ## Class Task
 
