@@ -46,19 +46,19 @@ Table: Model Type and Accuracy Score
    <img src="Test_Images/Scores.PNG" height="200"> 
 </p>
 
-### - Random Forest
+#### - Random Forest
 
 This was the most accurate model that I was able to create for the project. It still isn't very accurate as it only correctly predicted about 45% of the test set data. I believe this was the best model of the four that I tested because It allows for many different classification branches rather than just five buckets for classes. 
 
-### - K-Means Nearest Neighbor
+#### - K-Means Nearest Neighbor
 
 This was the least accurate model used for the project. After looking at some plots of the data it makes sense why this was the least accurate and why these models were pretty inaccurate overall. This is discussed more in the "What To Do Moving Forward" section.
 
-### - Naive Bayes
+#### - Naive Bayes
 
 This model was almost as accurate as the Random Forest model. I think this can attributed to the fact that Naive Bayes is based on probability not just the raw values of the input data to the model.
 
-### - Support Vector Machine
+#### - Support Vector Machine
 
 This model had similar results to the K-Means model. Again this will be discussed more in the "What To Do Moving Forward" section.
 
