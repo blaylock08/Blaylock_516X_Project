@@ -44,7 +44,7 @@ With the extracted RGB data from each of the images I trained four seperate mode
 ## Model Verification & Accuracy
 
 <p align="center">
-   <img src="Scores.png" height="410"> 
+   <img src="Scores.png"> 
 </p>
 
 ### - Random Forest Classifier
