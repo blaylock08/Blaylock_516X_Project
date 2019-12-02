@@ -35,15 +35,30 @@ Data was collected by doing a Google Image search for each of the animal groups 
 
 ## Data Modeling 
   
-Describe the methods used to handle the data.
+Raw image data was extracted using a function I created that used the Python PIL Image functions to import and split the images. The images were split into red, green and blue bands and then the average and standard deviation was taken from those bands. These metrics for each image were written to a Pandas Data frame along with the label for each image. I also attempted to use a second method which utlized TensorFlow and Keras to split each individual pixel of the image into these fields. I was able to sucessfully extract the data from the images with this method but wasn't able to train a model it required more computing power than my laptop is capable of.
 
 ## Machine Learning
 
-Describe the machine learning methods used.
+With the extracted RGB data from each of the images I trained four seperate models. The models I trained used four different methods of classification: Random Forest, K-Means Nearest Neighbor, Naive Bayes, and Support Vector Machine. Each model was trained with 875 samples and tested on 125 samples. Each model was tuned with the given parameters from the Scikit learn package. The results of these models is below in the verification and accuracy section.
 
 ## Model Verification & Accuracy
 
-Describe the accuracy of each model type, benefits, downfalls, etc.
+
+### - Random Forest Classifier
+
+
+
+### - K-Means Nearest Neighbor
+
+
+
+### - Naive Bayes
+
+
+
+### - Support Vector Machine
+
+
 
 ## Model Testing
 
