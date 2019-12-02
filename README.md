@@ -1,6 +1,6 @@
 ## Creator Introduction
    
-Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa State University. I am currently working on a Master's of Science degree in Agricultural Engineering with an emphasis in Advanced Machinery Systems. More specifically, self-propelled agricultural sprayers and how their performance can be improved. I took ABE 516X because my research is very data heavy and I wanted to learn new and different ways to handle large amounts of data.
+Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa State University. I am currently working on a Master's of Science degree in Agricultural Engineering with an emphasis in Advanced Machinery Systems. More specifically, self-propelled agricultural sprayers and how their performance can be improved. I took ABE 516X because my research is very data-heavy and I wanted to learn new and different ways to handle large amounts of data.
 
 <p align="center">
    <img src="Test_Images/IMG_0303.jpg" height="410"> <img src="Test_Images/IMG_0413.jpg" height="410">
@@ -27,21 +27,18 @@ The most accurate model will be chosen and used to evaluate other images.
 
 ## Data Collection
  
-Data was collected by doing a Google Image search for each of the animal groups and then saving images of each group into a local folder. During collection I did my best to only include images that were of the animals in their natural habitat (e.g. no images with white or black baackgrounds, human hands in the picture etc.) These images were then referenced into an Excel spread sheet which classified which group that image belonged to.
+Data was collected by doing a Google Image search for each of the animal groups and then saving images of each group into a local folder. During data collection, I did my best to only include images that were of the animals in their natural habitat (e.g. no images with white or black backgrounds, human hands in the picture, etc.) These images were then referenced into an Excel spreadsheet which classified which group that image belonged to.
 
 ## Data Modeling 
   
-Raw image data was extracted using a function I created that used the Python PIL Image functions to import and split the images. The images were split into red, green and blue bands and then the average and standard deviation was taken from those bands. These metrics for each image were written to a Pandas Data frame along with the label for each image. I also attempted to use a second method which utlized TensorFlow and Keras to split each individual pixel of the image into these fields. I was able to sucessfully extract the data from the images with this method but wasn't able to train a model it required more computing power than my laptop is capable of.
+Raw image data were extracted using a function I created that used the Python PIL Image functions to import and split the images. The images were split into red, green and blue bands and then the average and standard deviation were taken from those bands. These metrics for each image were written to a Pandas Data frame along with the label for each image. I also attempted to use a second method which utilized TensorFlow and Keras to split each individual pixel of the image into these fields. I was able to successfully extract the data from the images with this method but wasn't able to train a model it required more computing power than my laptop is capable of.
 
 ## Machine Learning
 
-With the extracted RGB data from each of the images I trained four seperate models. The models I trained used four different methods of classification: Random Forest, K-Means Nearest Neighbor, Naive Bayes, and Support Vector Machine. Each model was trained with 875 samples and tested on 125 samples. Each model was tuned with the given parameters from the Scikit learn package. The results of these models is below in the verification and accuracy section.
+With the extracted RGB data from each of the images, I trained four separate models. The models I trained used four different methods of classification: Random Forest, K-Means Nearest Neighbor, Naive Bayes, and Support Vector Machine. Each model was trained with 875 samples and tested on 125 samples. Each model was tuned with the given parameters from the Scikit learn package. The results of these models are below in the verification and accuracy section.
 
 ## Model Verification & Accuracy
 
-<div align="center">  
-Table: Model Type and Accuracy Score
-</div>
 <p align="center">
    <img src="Test_Images/Scores.PNG" height="200"> 
 </p>
@@ -56,7 +53,7 @@ This was the least accurate model used for the project. After looking at some pl
 
 #### - Naive Bayes
 
-This model was almost as accurate as the Random Forest model. I think this can attributed to the fact that Naive Bayes is based on probability not just the raw values of the input data to the model.
+This model was almost as accurate as the Random Forest model. I think this can be attributed to the fact that Naive Bayes is based on probability not just the raw values of the input data to the model.
 
 #### - Support Vector Machine
 
@@ -64,7 +61,7 @@ This model had similar results to the K-Means model. Again this will be discusse
 
 ## Model Testing
 
-Just for fun, I decided to put a few images of my colleugues and myself into the Random Forest model, as it was the most accurate, and see what we would be classfied as. Our images and classifications can be found below. 
+Just for fun, I decided to put a few images of my colleagues and myself into the Random Forest model, as it was the most accurate, and see what we would be classified as. Our images and classifications can be found below. 
 
 <p align="center">
    <img src="Test_Images/Adams.jpg" height="250"> <img src="Test_Images/Blaylock.jpg" height="250"> <img src="Test_Images/Deutsch.jpg" height="250"> <img src="Test_Images/Irlbeck.jpg" height="250"> <img src="Test_Images/Rewerts.jpg" height="250"> 
@@ -82,17 +79,17 @@ As I worked on this project and did some research on the task of image classific
    - Image Background Removal
    - Pixel By Pixel Image Analysis
 
-I think doing some of these things would help tremendously as after looking at some comparision plots of the RGB data, there wasn't much grouping that occured with the classes. All of the RGB data just piles on top of each other. So my data collection methods seemed to be too simple to be able to accuratle classify animal class. This can be seen in the image below.
+I think doing some of these things would help tremendously as after looking at some comparison plots of the RGB data, there weren't many groupings that occurred with the classes. All of the RGB data just piles on top of each other. So my data collection methods seemed to be too simple to be able to accurately classify animal class. This can be seen in the image below.
 
 <p align="center">
    <img src="Test_Images/Pairplot.PNG" height="400"> 
 </p>
 
-Also picking images of a specific animal or other specific images would help as well. For exmaple, trying to classify a goldfish vs a cat. I think that there was too much variation in my data, which led to a low accuracy in my models.
+Also picking images of a specific animal or other specific images would help as well. For example, trying to classify a goldfish vs a cat. I think that there was too much variation in my data, which led to low accuracy in my models.
 
 ## Class Task
 
-Create a task that could be completed by future students.
+For a class task, I would suggest using the tutorial that I created for the animal images classification using Keras and TensorFlow. It is in the "Code" folder of this repo and is called "Keras_Model_Evaluation_Script.ipynb". I think that this would be a good task that could also be done alongside the Amazon Workspace portion of this course as my computer didn't have enough ponies to even train the model of this type. It would be interesting to see if this method is any more effective than the RGB method that I used. All of the images I used for this project can be found in the "Animal_Images" folder of this repo.
 
 ## References & Documentation
 
