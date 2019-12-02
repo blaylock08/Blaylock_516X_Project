@@ -69,7 +69,7 @@ This model had similar results to the K-Means model. Again this will be discusse
 ## Model Testing
 
 <p align="center">
-   <img src="Adams.jpg" height="200"> <img src="Blaylock.jpg" height="200"> <img src="Deutsch.jpg" height="200"> <img src="Irlbeck.jpg" height="200"> <img src="Rewerts.jpg" height="200"> 
+   <img src="Adams.jpg" width="200"> <img src="Blaylock.jpg" width="200"> <img src="Deutsch.jpg" width="200"> <img src="Irlbeck.jpg" width="200"> <img src="Rewerts.jpg" width="200"> 
 </p>
 <div align="center">  
 ### Adams = Reptile | Blaylock = Fish | Deutsch = Mammal | Irlbeck = Reptile | Rewerts = Mammal
