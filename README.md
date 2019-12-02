@@ -45,15 +45,18 @@ Describe the machine learning methods used.
 
 Describe the accuracy of each model type, benefits, downfalls, etc.
 
-## User Input Section
+## Model Testing
 
-Idea is to have a user input an image and then the website will classify it for them.
-This might be a long shot on getting this to work but I'd like to give it a shot.
+Show 4 images and what they were classified as.
 
 ## What To Do Moving Forward
 
 Different techniques of classification.
 Image editing (background removal, outlining, etc).
+
+## Class Task
+
+Create a task that could be completed by future students.
 
 ## References & Documentation
 
