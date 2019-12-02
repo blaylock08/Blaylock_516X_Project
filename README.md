@@ -77,9 +77,11 @@ Adams = Reptile   |    Blaylock = Fish   |   Deutsch = Mammal   |   Irlbeck = Re
 ## What To Do Moving Forward
 
 As I worked on this project and did some research on the task of image classification and analysis, I found numerous methods to break down, sort, and classify images. As stated previously, I broke each image down into its RGB values and used those to classify the images. Some other methods include:
+
    - Image Outlining
    - Image Background Removal
    - Pixel By Pixel Image Analysis
+
 I think doing some of these things would help tremendously as after looking at some comparision plots of the RGB Data, there wasn't much grouping that occured with the classes. This can be seen in the image below.
 
 <p align="center">
