@@ -12,7 +12,7 @@ Hello everyone! My name is Kyle Blaylock and I am a graduate student at Iowa Sta
 
 ## Project & Website Description
   
-The goal of this website / project is to be able to take an uploaded image from the site user and classify it into one of the following animal groups:
+The goal of this website / project is to be able to take an image or images and classify it into one of the following animal groups:
 
   - *Mammals*
   - *Birds*
@@ -21,7 +21,7 @@ The goal of this website / project is to be able to take an uploaded image from 
   - *Amphibians*
   
 To accomplish this, several machine learning models will be trained with collected image data and evaluated based on their accuracy.
-The most accurate model will be chosen and used to evaluate the user input image on this website.
+The most accurate model will be chosen and used to evaluate other images.
 
 ## Project Workflow
 
