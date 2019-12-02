@@ -69,7 +69,7 @@ This model had similar results to the K-Means model. Again this will be discusse
 ## Model Testing
 
 <p align="center">
-   <img src="Test_Images/Adams.jpg" height="275"> <img src="Test_Images/Blaylock.jpg" height="275"> <img src="Test_Images/Deutsch.jpg" height="275"> <img src="Test_Images/Irlbeck.jpg" height="275"> <img src="Test_Images/Rewerts.jpg" height="275"> 
+   <img src="Test_Images/Adams.jpg" height="265"> <img src="Test_Images/Blaylock.jpg" height="265"> <img src="Test_Images/Deutsch.jpg" height="265"> <img src="Test_Images/Irlbeck.jpg" height="265"> <img src="Test_Images/Rewerts.jpg" height="265"> 
 </p>
       
 <div align="center">  
