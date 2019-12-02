@@ -68,8 +68,10 @@ This model had similar results to the K-Means model. Again this will be discusse
 
 ## Model Testing
 
+Just for fun, I decided to put a few images of my colleugues and myself into the Random Forest model, as it was the most accurate, and see what we would be classfied as. Our images and classifications can be found below. 
+
 <p align="center">
-   <img src="Test_Images/Adams.jpg" height="265"> <img src="Test_Images/Blaylock.jpg" height="265"> <img src="Test_Images/Deutsch.jpg" height="265"> <img src="Test_Images/Irlbeck.jpg" height="265"> <img src="Test_Images/Rewerts.jpg" height="265"> 
+   <img src="Test_Images/Adams.jpg" height="250"> <img src="Test_Images/Blaylock.jpg" height="250"> <img src="Test_Images/Deutsch.jpg" height="250"> <img src="Test_Images/Irlbeck.jpg" height="250"> <img src="Test_Images/Rewerts.jpg" height="250"> 
 </p>
       
 <div align="center">  
@@ -77,6 +79,11 @@ Adams = Reptile   |    Blaylock = Fish   |   Deutsch = Mammal   |   Irlbeck = Re
 </div>
 
 ## What To Do Moving Forward
+
+As I worked on this project and did some research on the task of image classification and analysis, I found numerous methods to break down, sort, and classify images. As stated previously, I broke each image down into its RGB values and used those to classify the images. Some other methods include:
+   - Image Outlining
+   - Image Background Removal
+   - Pixel By Pixel Image Analysis
 
 Different techniques of classification.
 Image editing (background removal, outlining, etc).
