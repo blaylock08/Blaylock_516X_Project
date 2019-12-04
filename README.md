@@ -89,7 +89,12 @@ Also picking images of a specific animal or other specific images would help as 
 
 ## Future Course Task
 
-For a class task, I would suggest using the tutorial that I created for the animal images classification using Keras and TensorFlow. It is in the "Code" folder of this repo and is called "Keras_Model_Evaluation_Script.ipynb". I think that this would be a good task that could also be done alongside the Amazon Workspace portion of this course as my computer didn't have enough ponies to even train the model of this type. It would be interesting to see if this method is any more effective than the RGB method that I used. All of the images I used for this project can be found in the "Animal_Images" folder of this repo.
+For a class task, I would suggest using the tutorial that I created for the animal images classification using Keras and TensorFlow. It is in the "Code" folder of this repo and and can be found at this [link](https://github.com/blaylock08/Blaylock_516X_Project/blob/master/Code/Keras_Model_Evaluation_Script.ipynb). I think that this would be a good task that could also be done alongside the Amazon Workspace portion of this course as my computer didn't have enough ponies to even train the model of this type. It would be interesting to see if this method is any more effective than the RGB method that I used. All of the images I used for this project can be found in the "Animal_Images" folder of this repo.
+
+## Documentation
+
+- [Animal Images](https://github.com/blaylock08/Blaylock_516X_Project/tree/master/Animal_Images)
+- [Model Evaluation Script](https://github.com/blaylock08/Blaylock_516X_Project/blob/master/Code/Model_Evaluation_Script.ipynb)
 
 ## References
 
@@ -101,9 +106,3 @@ For a class task, I would suggest using the tutorial that I created for the anim
 - [Keras-Python Tutorial](https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8)
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [Markdown Syntax](https://www.markdownguide.org)
-
-## Documentation
-
-- [Animal Images](https://github.com/blaylock08/Blaylock_516X_Project/tree/master/Animal_Images)
-- [Model Evaluation Script](https://github.com/blaylock08/Blaylock_516X_Project/blob/master/Code/Model_Evaluation_Script.ipynb)
-- [Keras Tutorial Script](https://github.com/blaylock08/Blaylock_516X_Project/blob/master/Code/Keras_Model_Evaluation_Script.ipynb)
