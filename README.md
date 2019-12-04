@@ -67,7 +67,7 @@ This model was almost as accurate as the Random Forest model. I think this can b
 
 This model had similar results to the K-Means model. Again this will be discussed more in the "What To Do Moving Forward" section.
 
-## Model Testing
+## Model Testing 
 
 Just for fun, I decided to put a few images of my colleagues and myself into the Random Forest model, as it was the most accurate, and see what we would be classified as. Our images and classifications can be found below. 
 
