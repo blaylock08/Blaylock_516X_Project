@@ -29,9 +29,17 @@ The most accurate model will be chosen and used to evaluate other images.
  
 Data was collected by doing a Google Image search for each of the animal groups and then saving images of each group into a local folder. During data collection, I did my best to only include images that were of the animals in their natural habitat (e.g. no images with white or black backgrounds, human hands in the picture, etc.) These images were then referenced into an Excel spreadsheet which classified which group that image belonged to.
 
+<p align="center">
+  <img width="1000" src="Animal_Images/0.jpg">
+</p>
+
 ## Data Modeling 
   
 Raw image data were extracted using a function I created that used the Python PIL Image functions to import and split the images. The images were split into red, green and blue bands and then the average and standard deviation were taken from those bands. These metrics for each image were written to a Pandas Data frame along with the label for each image. I also attempted to use a second method which utilized TensorFlow and Keras to split each individual pixel of the image into these fields. I was able to successfully extract the data from the images with this method but wasn't able to train a model it required more computing power than my laptop is capable of.
+
+<p align="center">
+  <img width="1000" src="Test_Images/Image_Function.PNG">
+</p>
 
 ## Machine Learning
 
