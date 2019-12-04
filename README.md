@@ -48,7 +48,7 @@ With the extracted RGB data from each of the images, I trained four separate mod
 ## Model Verification & Accuracy
 
 <p align="center">
-   <img src="Test_Images/Scores.PNG" height="200"> 
+   <img src="Test_Images/Scores1.PNG" height="200"> 
 </p>
 
 #### - Random Forest
